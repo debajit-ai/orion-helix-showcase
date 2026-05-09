@@ -21,7 +21,7 @@ Building a scalable AI ecosystem capable of:
 ---
 
 # Core Architecture
-
+![System Architecture](architecture/Screenshot 2026-05-09 194852.png)
 - AI Agent Infrastructure
 - Backend API Systems
 - Memory Engine
